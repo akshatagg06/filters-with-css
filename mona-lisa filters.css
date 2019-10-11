@@ -3,11 +3,13 @@ body {
     min-width: 800px;
     min-height: 400px
 }
+
 img {
     width:20%;
     float:left;
      margin:0;
 }
+
 /*Filter styles*/
 .saturate { filter: saturate(3); }
 .grayscale { filter: grayscale(100%); }
